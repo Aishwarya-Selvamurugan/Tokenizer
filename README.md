@@ -13,14 +13,15 @@ We assess both:
 ---
 
 ## 📂 Repository Structure
-├── Machine_Translation/ # Machine translation experiments using BART-large
-├── NER/ # Named Entity Recognition task implementation
-├── POS/ # Part-of-Speech tagging experiments
-├── Test_data_NSL_Sub_Word_fertility/ # Evaluation scripts for intrinsic metrics
-├── tokenizer_dataset_creation/ # Dataset preprocessing and creation scripts
-├── Tokenizer.ipynb # Main tokenizer training notebook
-├── Tokenizer_results.xlsx # Compiled experimental results
-└── tokenizer_nsl_fertility_report.csv # Detailed intrinsic evaluation metrics
+
+- `Machine_Translation/` – Machine translation experiments using **BART-large**
+- `NER/` – Named Entity Recognition task implementation
+- `POS/` – Part-of-Speech tagging experiments
+- `Test_data_NSL_Sub_Word_fertility/` – Evaluation scripts for intrinsic metrics
+- `tokenizer_dataset_creation/` – Dataset preprocessing and creation scripts
+- `Tokenizer.ipynb` – Main tokenizer training notebook
+- `Tokenizer_results.xlsx` – Compiled experimental results
+- `tokenizer_nsl_fertility_report.csv` – Detailed intrinsic evaluation metrics
 
 
 ---
